@@ -45,6 +45,8 @@ Users should be able to:
 
 While working on this project, I learned how to use the css properties min(), max(), and clamp() to make a more repsonsive webpage while relying less on media queries. I also made an effort to use more pseudo-elements, such as the :hover and nth-child elements. I learned that creating a landing page is a bit more difficult than creating a card as you are working with the whole page and not a contained area. The project took longer than I would have liked, but I am pleased with my overall work.
 
+A challenge I faced during the creation of the Huddle page was getting the background image to look the way it was intended to in the desktop portion of the project. I was unable to work that part out, which is my only criticism of my work.
+
 ### Continued development
 
 In fuiture projects, one thing I would like to implement is the calc() element so as to create more appealing size transitions for fonts and images. I also plan to continue working on the time it takes me to finish a singular project.
