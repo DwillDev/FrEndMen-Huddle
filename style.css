@@ -76,7 +76,7 @@
     }
 
     .mockup img{
-        width:clamp(30rem,80vw,50rem);
+        width:clamp(30rem,81vw,50rem);
     }
 
     h1{
@@ -136,6 +136,7 @@
 
     html{
         background:hsl(257, 40%, 49%) url(images/bg-desktop.svg) no-repeat;
+        /* background-size: 95vw auto; */
         background-size: auto 100vh;
     }
 
@@ -173,6 +174,7 @@
 
     .logo img{
         width: 20rem;
+        margin-top:8rem;
     }
 
     .mockup img{
