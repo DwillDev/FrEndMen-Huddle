@@ -29,7 +29,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub Page](https://naiwilliams.github.io/Huddle/)
+- Solution URL: [GitHub Page](https://naiwilliams.github.io/FrEndMen-Huddle/)
 
 ## My process
 
